@@ -1,0 +1,17 @@
+export const C = {
+  grid:      "#f0f0f0",
+  gridLine:  "#ddd",
+  bg:        "#f5f5f5",
+  black:     "#111",
+  white:     "#fff",
+  offwhite:  "#fafafa",
+  red:       "#e63329",
+  blue:      "#2563eb",
+  green:     "#16a34a",
+  yellow:    "#f5c518",
+  purple:    "#7c3aed",
+  muted:     "#666",
+  border:    "#222",
+  pixelFont: "'Courier New', 'Lucida Console', monospace",
+  handFont:  "'Georgia', serif",
+};
